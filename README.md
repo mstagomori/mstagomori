@@ -1,8 +1,11 @@
 ## Hello! I'm Matheus Tagomori.
 
 Computer Engineer @ [UFRJ](https://poli.ufrj.br) (Feb 2019 - Mar 2024)
+
 Data Science for Businesses @ [Alumni COPPEAD](https://alumnicoppead.com.br) (Feb 2024 - Apr 2025)
+
 [Google Data Analytics](https://www.credly.com/badges/46582dfd-9235-4179-b38b-bbee2304a277) by Google @ [Coursera](https://www.coursera.org)
+
 <!--
 **mstagomori/mstagomori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
