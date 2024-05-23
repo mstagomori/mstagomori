@@ -9,7 +9,7 @@
 </em>
 </p>
 
-##
+</br>
 
 <p align="center">
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -21,7 +21,7 @@
 
 ##
  
-<div> 
+<div align="center"> 
   <a href="https://www.linkedin.com/in/mstagomori" target="_blank"><img align="center" src="https://img.shields.io/badge/-mstagomori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mstagomori/" alt="mstagomori" height="24" width="100" /></a>
   <a href="https://github.com/mstagomori/" target="_blank"><img align="center" src="https://img.shields.io/github/followers/mstagomori?label=Follow&style=social&link=https://github.com/mstagomori/" alt="mstagomori" height="24" width="100" /></a> 
 </div>
