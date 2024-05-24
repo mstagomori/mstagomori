@@ -24,8 +24,8 @@
 ##
  
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/mstagomori" target="_blank"><img align="center" src="https://img.shields.io/badge/-mstagomori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mstagomori/" alt="mstagomori" height="24" width="100" /></a>
-  <a href="https://github.com/mstagomori/" target="_blank"><img align="center" src="https://img.shields.io/github/followers/mstagomori?label=Follow&style=social&link=https://github.com/mstagomori/" alt="mstagomori" height="24" width="100" /></a> 
+  <a href="https://www.linkedin.com/in/mstagomori" target="_blank"><img align="center" src="https://img.shields.io/badge/-mstagomori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mstagomori/" alt="mstagomori" height="22" width="100" /></a>
+  <a href="https://github.com/mstagomori/" target="_blank"><img align="center" src="https://img.shields.io/github/followers/mstagomori?label=Follow&style=social&link=https://github.com/mstagomori/" alt="mstagomori" height="22" width="100" /></a> 
 </div>
 
 
