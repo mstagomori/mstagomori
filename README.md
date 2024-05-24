@@ -2,7 +2,7 @@
 
 <p>
 <em>
-</br>Computer Engineer @ <a href="https://poli.ufrj.br">UFRJ</a> (Feb 2019 - Mar 2024)
+</br>Computer and Information Engineering @ <a href="https://poli.ufrj.br">UFRJ</a> (Feb 2019 - Mar 2024)
 </br>Data Science for Businesses @ <a href="https://alumnicoppead.com.br">Alumni COPPEAD</a> (Feb 2024 - Apr 2025)
 </br>Google Data Analytics <a href="https://www.credly.com/badges/46582dfd-9235-4179-b38b-bbee2304a277">Certified</a> by Google and <a href="https://www.coursera.org">Coursera</a> (2024)
 </br>Data Projects in <a href="https://github.com/mstagomori/kaggle">Kaggle Repository</a> or <a href="https://kaggle.com/matheustagomori">Kaggle Profile</a>
