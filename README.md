@@ -3,7 +3,7 @@
 <p>
 <em>
 </br>Computer and Information Engineering at <a href="https://poli.ufrj.br">UFRJ</a> (Feb 2019 - Mar 2024)
-</br>Data Science for Businesses at <a href="https://alumnicoppead.com.br">Alumni COPPEAD</a> (Feb 2024 - Apr 2025)
+</br>Data Science for Business at <a href="https://alumnicoppead.com.br">Alumni COPPEAD</a> (Feb 2024 - Apr 2025)
 </em>
 </p>
 
