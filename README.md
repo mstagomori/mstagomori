@@ -20,10 +20,13 @@
 </p>        
 
 ##
- 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/mstagomori" target="_blank"><img align="center" src="https://img.shields.io/badge/-mstagomori-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mstagomori/" alt="mstagomori" width="100" /></a>
-  <a href="https://github.com/mstagomori/" target="_blank"><img align="center" src="https://img.shields.io/github/followers/mstagomori?label=Follow&style=social&link=https://github.com/mstagomori/" alt="mstagomori" width="100" /></a> 
-</div>
 
-
+<p>
+<h3>Contact me</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/mstagomori/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/mstagomori">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+</p>
